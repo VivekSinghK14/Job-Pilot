@@ -1,0 +1,30 @@
+# Secrets & credentials
+.env
+service_account.json
+credentials.json
+token.pickle
+jt_cookies.json
+
+# Runtime data
+seen_jobs.json
+job_tracker.xlsx
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm IDE
+.idea/
+
+# Test files
+test_date.py
+
+# OS files
+.DS_Store
+Thumbs.db
